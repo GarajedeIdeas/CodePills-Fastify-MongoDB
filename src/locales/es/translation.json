@@ -1,0 +1,370 @@
+{
+    "header": {
+        "header": {
+            "label": "¿Qué necesitas",
+            "question": "?"
+        },
+        "hotel": {
+            "label": "Hoteles"
+        },
+        "flight": {
+            "label": "Vuelos"
+        },
+        "train": {
+            "label": "Trenes"
+        },
+        "car": {
+            "label": "Coches"
+        },
+        "help": {
+            "phone": "Para cualquier duda sobre tu viaje, puedes contactarnos al número {phone}.",
+            "schedule": "En el horario de:"
+        }
+    },
+    "hotel": {
+        "form": {
+            "location": {
+                "label": "Ciudad/Hotel",
+                "placeholder": "Ciudad/Hotel"
+            },
+            "users": {
+                "label": "Viajeros",
+                "placeholder": "Viajeros"
+            },
+            "dates": {
+                "label": "Fechas",
+                "placeholder_1": "Entrada",
+                "placeholder_2": "Salida"
+            },
+            "rooms": {
+                "label": "Habitaciones"
+            },
+            "poi": {
+                "label": "Punto de interés",
+                "placeholder": "Punto de interés"
+            },
+            "address": {
+                "label": "Dirección",
+                "placeholder": "Dirección"
+            },
+            "distance": {
+                "label": "Radio de búsqueda"
+            },
+            "submit": {
+                "label": "¡Encuéntralo!"
+            }
+        },
+        "search": {
+            "distance": {
+                "label_1": "a",
+                "label_2": "m del POI"
+            },
+            "bestOption": {
+                "text": "Mejor opción",
+                "description": "Habitación con mejor precio"
+            },
+            "miscelania": {
+                "passengers_night": "pers/noche"
+            },
+            "buy": {
+                "label": "Comprar"
+            },
+            "cancellation": {
+                "cancelable": "Cancelable",
+                "no_cancelable": "No Cancelable"
+            }
+        }
+    },
+    "transport": {
+        "summary": {
+            "header": {
+                "add": "Add"
+            },
+            "footer": {
+                "btn1": "Volver",
+                "btn2": "Añadir"
+            },
+            "body": {
+                "detail": {
+                    "text": "OUTBOUND"
+                },
+                "services": {
+                    "included": "incluido",
+                    "notIncluded": "no incluido"
+                },
+                "conditions": {
+                    "refundable": "REFUNDABLE",
+                    "noRefundable": "NO REFUNDABLE",
+                    "ticket": "TICKET"
+                },
+                "ancilliaries": {
+                    "suitcase": "Equipaje en bodega",
+                    "seat": "Selección de asiento"
+                },
+                "extraInfo": {
+                    "field1": {
+                        "label": "Info for the customer",
+                        "name": "customerNotes",
+                        "placeholder": "Insert text here"
+                    },
+                    "field2": {
+                        "label": "Change and Cancel policies",
+                        "name": "policiesNotes",
+                        "placeholder": "Insert text here"
+                    }
+                }
+            }
+        },
+        "buy": {
+            "SBT": "Comprar",
+            "ABT": "Agregar"
+        },
+        "form": {
+            "tripType": {
+                "label": "Tramo",
+                "message": "Obligatorio",
+                "placeholder": "Tramo"
+            },
+            "departure": {
+                "label": "Origen",
+                "placeholder": "Origen",
+                "message": "Obligatorio"
+            },
+            "return": {
+                "label": "Destino",
+                "placeholder": "Destino",
+                "message": "Obligatorio"
+            },
+            "dates": {
+                "label": "Fechas",
+                "message": "Obligatorio",
+                "placeholder_1": "Inicio",
+                "placeholder_2": "Fin"
+            },
+            "users": {
+                "label": "Viajeros",
+                "message": "Obligatorio",
+                "placeholder": "Viajeros"
+            },
+            "submit": {
+                "label": "¡Encuéntralo!"
+            }
+        },
+        "fare": {
+            "title": "Selecciona tarifas",
+            "footer": {
+                "btn1": "Volver",
+                "btn2": {
+                    "SBT": "Continuar con el pago",
+                    "ABT": "Continuar"
+                }
+            },
+            "header": {
+                "col1": "Tarifa",
+                "col2": "Asiento",
+                "col3": "Comida",
+                "col4": "Devolución",
+                "col5": "Cambios",
+                "col6": "Maleta",
+                "col7": "Precio"
+            },
+            "name": {
+                "departure": "ida",
+                "return": "vuelta"
+            },
+            "price": {
+                "title": "Total",
+                "unitary": "precio por pax"
+            },
+            "tabs": {
+                "title": "Tarifas",
+                "key": "fares"
+            }
+        },
+        "baggage": {
+            "tabs": {
+                "title": "Baggage",
+                "key": "baggage"
+            },
+            "noExtra": "No maletas extras"
+        },
+        "priority": {
+            "tabs": {
+                "title": "Priority boarding",
+                "key": "priority"
+            }
+        },
+        "search": {
+            "baggage": {
+                "label": "Equipaje de bodega:",
+                "singular": "maleta",
+                "plural": "maletas"
+            },
+            "handBaggage": {
+                "label": "Equipaje de mano:",
+                "singular": "bulto",
+                "plural": "bultos"
+            },
+            "miscelania": {
+                "included": "Incluido",
+                "not_included": "No incluido",
+                "charges": "Con cargos"
+            },
+            "seatSelection": {
+                "label": "Selección de asiento:"
+            },
+            "changes": {
+                "allowed": "Cambios permitidos",
+                "not_allowed": "Cambios no permitidos"
+            },
+            "moreInfo": {
+                "label": "Info"
+            },
+            "layovers": {
+                "direct": "Directo",
+                "train": {
+                    "singular": "transbordo",
+                    "plural": "transbordos"
+                },
+                "flight": {
+                    "singular": "escala",
+                    "plural": "escalas"
+                }
+            },
+            "tarif": "Tarifa: "
+        },
+        "filters": {
+            "departureTime": {
+                "label": "Hora de salida",
+                "tag": "Salida {type}: Entre {} y {}",
+                "category": "tiempo"
+            },
+            "arrivalTime": {
+                "label": "Hora de llegada",
+                "tag": "Llegada {type}: Entre {} y {}",
+                "category": "tiempo"
+            },
+            "groups": {
+                "origin": "ida",
+                "return": "vuelta",
+                "multiDestination": "trayecto"
+            }
+        }
+    },
+    "offer": {
+        "finishButton": {
+            "label": "He terminado"
+        },
+        "finishModal": {
+            "with": "con",
+            "hotel": {
+                "singular": "hotel",
+                "plural": "hoteles"
+            },
+            "flight": {
+                "singular": "vuelo",
+                "plural": "vuelos"
+            },
+            "rail": {
+                "singular": "tren",
+                "plural": "trenes"
+            },
+            "connector": "y",
+            "title": "Pedido completado",
+            "text1_1": "Tu pedido se ha completado, tienes",
+            "text1_2": "el número de",
+            "text2": "En breve, recibirás en tu email el itinerario con los bonos y reservas.",
+            "contact": "Recuerda que en cuanto un agente gestione lo pendiente recibiras los bonos y/o reservas en tu email.",
+            "phone": "Para cualquier duda sobre tu viaje, puedes contactarnos al número {phone}.",
+            "schedule": "En el horario de:"
+        },
+        "summary": {
+            "trip": {
+                "title": "Viaje: Trip#",
+                "period": {
+                    "text_1": "Fechas:",
+                    "text_2": "a"
+                },
+                "origin": "Origen:",
+                "destination": "Destino:",
+                "travellers": "Viajeros:"
+            },
+            "transport": {
+                "layovers": {
+                    "direct": "Directo"
+                },
+                "passengers": {
+                    "singular": "pasajero",
+                    "plural": "pasajeros"
+                },
+                "bags": {
+                    "included": {
+                        "plural": "maletas",
+                        "singular": "maleta"
+                    },
+                    "not_included": "sin maletas"
+                },
+                "pnr": "Localizador:",
+                "pending": "Localizador pendiente"
+            },
+            "flight": {
+                "layovers": {
+                    "plural": "escalas"
+                }
+            },
+            "train": {
+                "layovers": {
+                    "plural": "transbordos"
+                }
+            },
+            "hotel": {
+                "passengers": {
+                    "singular": "pasajero",
+                    "plural": "pasajeros"
+                },
+                "rooms": {
+                    "singular": "habitación",
+                    "plural": "habitaciones"
+                },
+                "pending": "Bono pendiente"
+            }
+        },
+        "articles": {
+            "title": "Ticket info"
+        }
+    },
+    "office": {
+        "format": {
+            "link": "y",
+            "preposition": "de",
+            "correlation": "a",
+            "mon": "Lunes",
+            "tue": "Martes",
+            "wed": "Miércoles",
+            "thu": "Jueves",
+            "fri": "Viernes",
+            "sat": "Sabado",
+            "sun": "Domingo"
+        }
+    },
+    "addons": {
+        "passenger": "Passenger: ",
+        "priorityIncluded": "Priority boarding included",
+        "priorityIncludedOutbound": "Priority boarding included in outbound",
+        "priorityIncludedReturn": "Priority boarding included in return",
+        "outbound": " outbound",
+        "return": " return",
+        "extraBaggage": "extra baggage included ",
+        "extraBaggage2": "extra baggage included in "
+    },
+    "checkout": {
+        "title": "Nueva opción añadida con éxito",
+        "buttonAdd": "Añade más opciones",
+        "buttonClose": "Cerrar discovery",
+        "subtitle": "Has añadido 1 ",
+        "text_1": "Ahora tienes "
+    },
+    "traveller": {
+        "morePassengers": "-and more..."
+    }
+}

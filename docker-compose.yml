@@ -1,0 +1,19 @@
+version: '3.7'
+
+services:
+    fastify-backbone-service:
+        build:
+            context: .
+            dockerfile: Dockerfile
+            target: builder
+        volumes:
+            - ./src:/app/src
+            - ./nodemon.json:/app/nodemon.json
+            - ./.env:/app/.env
+        container_name: fastify-backbone-service
+        ports:
+            - '${PORT}:${PORT}'
+        command: npm run dev
+        env_file:
+            - .env.local
+            - .env

@@ -1,0 +1,25 @@
+{
+  "hotel": {
+    "users": {
+      "placeholder_1": "hotel.users.placeholder_1",
+      "placeholder_2": "hotel.users.placeholder_2"
+    },
+    "form": {
+      "users": {
+        "placeholder_1": "hotel.form.users.placeholder_1",
+        "placeholder_2": "hotel.form.users.placeholder_2"
+      }
+    },
+    "poi": {
+      "label": "hotel.poi.label",
+      "placeholder": "hotel.poi.placeholder"
+    }
+  },
+  "flight": {
+    "search": {
+      "bagagge": {
+        "label": "flight.search.bagagge.label"
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+WAIT=15
+TIMEOUT=20
+ATTEMPTS=5
+/ping pong

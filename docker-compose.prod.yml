@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+    fastify-backbone-service:
+        build:
+            target: final
+        command: pm2-runtime ./process.yml

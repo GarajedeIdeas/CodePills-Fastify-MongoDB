@@ -1,0 +1,5 @@
+apps:
+    - name: fastify-api
+      script: ./build/index.js
+      exec_mode: cluster
+      instances: max
