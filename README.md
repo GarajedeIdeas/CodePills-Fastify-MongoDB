@@ -1,3 +1,9 @@
+# Webinar Youtube
+Intro a typescript en 20 min
+
+## Curso completo
+[AQUÍ](https://www.youtube.com/watch?v=qS5R6Mjq36U)
+
 # README
 
 MVP Back end code for Vizzio working to deliver into medium size population
