@@ -1,8 +1,8 @@
 # Webinar Youtube
-Sube y descarga archivos con Firebase Storage en Angular
+En este vídeo veremos cómo funcionan distintos elementos como los Middleswares, plugins o el ciclo de vida en Fastify a través de varios ejemplos.
 
 ## Curso completo
-[AQUÍ](https://www.youtube.com/watch?v=qS5R6Mjq36U)
+[AQUÍ](https://www.youtube.com/watch?v=UrJENsmU1vw)
 
 # README
 
